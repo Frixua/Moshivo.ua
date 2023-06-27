@@ -1,0 +1,74 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.p1 {
+  font-size: 90px;
+}
+
+header {
+  height: 120px;
+  background-color: orange;
+}
+.icons > div {
+  display: inline-block;
+  width: 19%;
+}
+.icons > div > a > img {
+  width: 50%;
+  height: 10%;
+}
+.icons > div > a > img {
+  width: 150px;
+  height: 15%;
+}
+
+.icons2 > div > a > img {
+  width: 200px;
+  height: 15%;
+}
+.icons2 > div {
+  float: left;
+  margin: 0px 90px 0px 90px;
+}
+.n530 {
+  margin-top: 30%;
+}
+.ua {
+  margin-top: 39%;
+}
+.uap {
+  height: 120px;
+}
+.gaz2 {
+  height: 20%;
+  width: 40%;
+}
+.bad {
+  height: auto;
+  width: 100px;
+  background-color: aqua;
+}
+.adic {
+  display: inline-block;
+  height: 100%;
+  width: 100%;
+}
+div > .adic {
+  width: 964px;
+  height: auto;
+}
+.ni {
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+}
+.icons2 > div > a > .tr2 {
+  height: 200px;
+}
+.dadic {
+  display: inline-block;
+  height: 10%;
+  width: 19%;
+}
